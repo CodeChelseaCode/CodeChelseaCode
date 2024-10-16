@@ -1,4 +1,4 @@
-<div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background-color: #fff3e6;">
+<div style="border: 2px dotted #f39c12; border-radius: 10px; padding: 20px; background-color: #fff3e6;">
 
 # 💛 Welcome to My GitHub 💛
 
@@ -7,6 +7,7 @@ Hi there! I'm Chelsea Rice, a passionate developer and tech enthusiast. I’m in
 Trust The Process & Happy Coding! 🚀
 
 </div>
+
 
 <!---
 CodeChelseaCode/CodeChelseaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
